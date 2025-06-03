@@ -4,7 +4,6 @@ import imtf
 import pandas as pd
 
 
-# Some functions were referenced by https://www.geeksforgeeks.org/move-front-data-transform-algorithm/
 
 def search(input_char, lst):
     """
